@@ -19,5 +19,5 @@ AI & DS Student @ Sethu Institute of Technology
 
 
 [![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohan-prasath7&bg_color=000000&color=ffffff&line=028818&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<iframe src="https://hackerrank-badge.herokuapp.com/mohan-prasath7?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+
 
