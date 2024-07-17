@@ -10,8 +10,8 @@ AI & DS Student @ Sethu Institute of Technology
 - ⚡ Fun fact: I'm currently learning French.
 
 ### I code in
-<div style="display: flex; align-items: flex-start; justify-content: center">
-  <table align="center">
+<div style="display: flex; align-items: flex-start; ">
+  <table>
    <tr>
    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
@@ -69,7 +69,7 @@ AI & DS Student @ Sethu Institute of Technology
 
 ### IDE and Tools I Use
 <div style="display: flex; align-items: flex-start; justify-content: center">
-  <table align="center">
+  <table >
    <tr>
     <td align="center" width="96">
        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
