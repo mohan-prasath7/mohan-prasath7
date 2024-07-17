@@ -115,5 +115,5 @@ AI & DS Student @ Sethu Institute of Technology
 [![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohan-prasath7&bg_color=000000&color=ffffff&line=028818&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<img src="https://raw.githubusercontent.com/FarahIbrar/FarahIbrar/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/mohan-prasath7/mohan-prasath7/blob/output/snake.svg" />
 
