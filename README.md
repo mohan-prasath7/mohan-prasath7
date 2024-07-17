@@ -10,15 +10,105 @@ AI & DS Student @ Sethu Institute of Technology
 - ⚡ Fun fact: I'm currently learning French.
 
 ### I code in
- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Nodejs" />
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
+<div style="display: flex; align-items: flex-start; justify-content: center">
+  <table align="center">
+   <tr>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+         <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+        <br>HTML
+      </td>
+    </tr>
+ <tr>
+      <td align="center" width="96">
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+        <br>CSS
+      </td>
+        <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+        <br>Javascript
+      </td>
+        <td align="center" width="96">
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+        <br>React
+      </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+        <br>Mysql
+      </td>
+      </tr>
+   <tr>
+        <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Nodejs" />
+        <br>Node Js
+      </td>
+        <td align="center" width="96">
+       <img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
+        <br>R Programming
+      </td>
+    
+   </tr>
+   </table>
+</div>
+   
+   
+
        
       
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" height="40" alt="Canva" /> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<div style="display: flex; align-items: flex-start; justify-content: center">
+  <table align="center">
+   <tr>
+    <td align="center" width="96">
+       <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+        <br>Visual Studio
+      </td>
+    <td align="center" width="96">
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+        <br>Pycharm
+      </td>
+    <td align="center" width="96">
+       <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+        <br>Git
+      </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+        <br>Github
+      </td>
+   </tr>
+    <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" height="40" alt="Canva" /> 
+        <br>Canva
+      </td>
+    <td align="center" width="96">
+        <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
+        <br>Java Eclipse
+      </td>
+    <td align="center" width="96">
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+        <br>Figma
+      </td>
+    <td align="center" width="96">
+       <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        <br>Netlify
+      </td>
+   </tr>
+    </table>
+</div>
+  
 
 
 
