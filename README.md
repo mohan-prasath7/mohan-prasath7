@@ -118,5 +118,5 @@ AI & DS Student @ Sethu Institute of Technology
 
 
 
-<img src="https://github.com/mohan-prasath7/mohan-prasath7/blob/output/snake.svg" />
+<img src="https://github.com/mohan-prasath7/mohan-prasath7/blob/output/github-contribution-grid-snake-dark.svg" />
 
