@@ -21,10 +21,10 @@ AI & DS Student @ Sethu Institute of Technology
         <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
         <br>C
       </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
         <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
         <br>Java
-      </td>
+      </td> -->
       <td align="center" width="96">
          <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
         <br>HTML
@@ -38,17 +38,17 @@ AI & DS Student @ Sethu Institute of Technology
         <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
         <br>Javascript
-      </td>
+<!--       </td>
         <td align="center" width="96">
         <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
         <br>React
-      </td>
+      </td> -->
         <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
         <br>Mysql
       </td>
       </tr>
-   <tr>
+<!--    <tr>
         <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Nodejs" />
         <br>Node Js
@@ -58,7 +58,7 @@ AI & DS Student @ Sethu Institute of Technology
         <br>R Programming
       </td>
     
-   </tr>
+   </tr> -->
    </table>
 </div>
    
@@ -83,24 +83,25 @@ AI & DS Student @ Sethu Institute of Technology
        <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
         <br>Git
       </td>
-    <td align="center" width="96">
+
+   </tr>
+    <tr>
+          <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
         <br>Github
       </td>
-   </tr>
-    <tr>
     <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" height="40" alt="Canva" /> 
         <br>Canva
       </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
         <br>Java Eclipse
-      </td>
-    <td align="center" width="96">
+      </td> -->
+<!--     <td align="center" width="96">
         <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
         <br>Figma
-      </td>
+      </td> -->
     <td align="center" width="96">
        <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
         <br>Netlify
