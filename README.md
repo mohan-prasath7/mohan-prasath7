@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Mohan prasath
 
 AI & DS Student @ Sethu Institute of Technology
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
+<img align="right" alt="Coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"/>                                               
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
 - 📫 How to reach me :
