@@ -111,9 +111,9 @@ AI & DS Student @ Sethu Institute of Technology
     </table>
 </div>
   
-[![mohan-prasath7's Stats](https://github-readme-stats.vercel.app/api?username=mohan-prasath7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://leetcode.com/u/Mohan_prasath_R/)<br>
+![mohan-prasath7's Stats](https://github-readme-stats.vercel.app/api?username=mohan-prasath7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br>
 ![mohan-prasath7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-prasath7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mohan_prasath_R?theme=dark&font=Marcellus%20SC&ext=contest)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Mohan_prasath_R?theme=dark&font=Marcellus%20SC&ext=contest)] (https://leetcode.com/u/Mohan_prasath_R/)
 
 [![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohan-prasath7&bg_color=000000&color=ffffff&line=028818&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
